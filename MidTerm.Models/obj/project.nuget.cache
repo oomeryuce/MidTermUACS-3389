@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yi37Z517mzxu4Nc6ERhdg+nq/NGYN0tqUAEpj1KbEMAMQYo7cNA9RLy78iPNLMJWvQ6UMuHQ80se1vw9sGieyA==",
+  "success": true,
+  "projectFilePath": "/Users/omeryuce/Downloads/MidTerm/MidTerm.Models/MidTerm.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/omeryuce/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/omeryuce/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
